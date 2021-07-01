@@ -23,11 +23,11 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2021 Nordic Giant</li>
+                <li>&copy; Copyright 2021 Ibrahim Said</li>
                 <li>
-                  Design by{" "}
-                  <a title="Styleshout" href="http://www.styleshout.com/">
-                    Styleshout
+                  Base Design by{" "}
+                  <a title="Ceevee" href="https://ceev.io/">
+                    Ceevee
                   </a>
                 </li>
               </ul>

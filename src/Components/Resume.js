@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Slide from "react-reveal";
 
+
 class Resume extends Component {
   getRandomColor() {
     let letters = "0123456789ABCDEF";
@@ -15,9 +16,11 @@ class Resume extends Component {
     if (!this.props.data) return null;
 
     const skillmessage = this.props.data.skillmessage;
-    const education = this.props.data.education.map(function (education) {
+    var education = this.props.data.education.map(function (education) {
+      var educationImage = 'images/portfolio/'+education.image;
       return (
         <div key={education.school}>
+          <img src={education.image} src={educationImage} />
           <h3>{education.school}</h3>
           <p className="info">
             {education.degree} <span>&bull;</span>
@@ -27,7 +30,7 @@ class Resume extends Component {
         </div>
       );
     });
-
+    
     const work = this.props.data.work.map(function (work) {
       return (
         <div key={work.company}>
