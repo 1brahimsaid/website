@@ -7,7 +7,6 @@ class Header extends Component {
     if (!this.props.data) return null;
 
     const project = this.props.data.project;
-    const twitter = this.props.data.twitter;
     const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
@@ -73,9 +72,6 @@ class Header extends Component {
                 </a>
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
-                </a>
-                <a href={twitter} className="button btn twitter-btn">
-                  <i className="fa fa-twitter"></i>Twitter
                 </a>
               </ul>
             </Fade>
