@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Ibrahim Said",
-    "description":"Coder, Photoshop Extraordinaire, Developer, and Future P.Eng! Created with react, vue.js, particles-bg! Check out my links below",
+    "description":"Coder, Photoshop Extraordinaire, Developer, and Future P.Eng! Check out my links below",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -52,7 +52,7 @@
         "school":"Carleton University",
         "degree":"B. Eng Biomedical & Electrical Engineering",
         "image":"07.png",
-        "graduated":"April 2021",
+        "graduated":"April 20XX",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
