@@ -23,7 +23,7 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2021 Ibrahim Said</li>
+                <li>&copy; Copyright Ibrahim Said 2021</li>
                 <li>
                   Base Design by{" "}
                   <a title="Ceevee" href="https://ceev.io/">
