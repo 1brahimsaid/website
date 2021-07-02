@@ -20,7 +20,7 @@ class About extends Component {
       <section id="about">
         <Fade duration={1000}>
           <div className="row">
-            <div className="three columns">
+            <div className="four columns">
               <img
                 className="profile-pic"
                 src={profilepic}
