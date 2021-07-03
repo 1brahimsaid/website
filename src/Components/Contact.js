@@ -21,7 +21,9 @@ class Contact extends Component {
             <div className="ten columns">
               <p className="lead">{message}</p>
               <p className="address">
-                    <span>{email}</span>
+              <span>
+              <a href="mailto:ibrahim.said95@gmail.com">ibrahim.said95@gmail.com</a>
+              </span> 
               </p>
             </div>
           </div>
