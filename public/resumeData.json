@@ -8,7 +8,7 @@
     "email": "ibrahim.said95@gmail.com",
     "phone": "647-779-4369",
     "github":"https://github.com/1brahimsaid",
-    "projects":"https://projects.ibrahimsaid.ca"
+    "projects":"https://projects.ibrahimsaid.ca",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
@@ -25,7 +25,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/1brahimsaid",
         "className":"fa fa-github"
       }
     ]
