@@ -27,25 +27,6 @@ class Contact extends Component {
             </div>
           </div>
         </Fade>
-
-        <div className="row">
-          <Slide right duration={1000}>
-            <aside className="two columns footer-widgets">
-              <div className="widget widget_contact">
-                <h4>Address and Phone</h4>
-                <p className="address">
-                  {name}
-                  <br />
-                  {city}, {state}
-                  <br />
-                  <span>{email}</span>
-                  <br />
-                  <span>{phone}</span>
-                </p>
-              </div>
-            </aside>
-          </Slide>
-        </div>
       </section>
     );
   }
