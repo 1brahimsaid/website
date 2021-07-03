@@ -9,6 +9,7 @@ class Contact extends Component {
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
     const phone = this.props.data.phone;
+    const email = this.props.data.email;
     const message = this.props.data.contactmessage;
 
     return (
