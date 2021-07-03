@@ -1,4 +1,4 @@
-# React Site :page_with_curl:
+# :page_with_curl: Resume React Site 
 
 ![image](https://user-images.githubusercontent.com/86809275/124200615-cbe15a00-daa3-11eb-922f-d2eacbca6031.png)
 
