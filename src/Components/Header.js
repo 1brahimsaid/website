@@ -7,6 +7,7 @@ class Header extends Component {
     if (!this.props.data) return null;
 
     const github = this.props.data.github;
+    const projects = this.props.data.projects;
     const name = this.props.data.name;
     const description = this.props.data.description;
 
@@ -68,6 +69,9 @@ class Header extends Component {
               <ul className="social">
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
+                </a>
+                <a href={projects} className="button btn projects-btn">
+                  <i className="fa fa-book"></i>Projects
                 </a>
               </ul>
             </Fade>
