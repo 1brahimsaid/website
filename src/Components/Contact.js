@@ -6,7 +6,6 @@ class Contact extends Component {
     if (!this.props.data) return null;
 
     const message = this.props.data.contactmessage;
-    const email = this.props.data.email;
 
     return (
       <section id="contact">
