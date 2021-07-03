@@ -19,6 +19,9 @@ class Contact extends Component {
 
             <div className="ten columns">
               <p className="lead">{message}</p>
+              <p className="address">
+                    <span>{email}</span>
+              </p>
             </div>
           </div>
         </Fade>
