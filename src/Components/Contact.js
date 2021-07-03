@@ -6,10 +6,8 @@ class Contact extends Component {
     if (!this.props.data) return null;
 
     const name = this.props.data.name;
-    const street = this.props.data.address.street;
     const city = this.props.data.address.city;
     const state = this.props.data.address.state;
-    const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const message = this.props.data.contactmessage;
 
@@ -31,13 +29,15 @@ class Contact extends Component {
 
         <div className="row">
           <Slide right duration={1000}>
-            <aside className="four columns footer-widgets">
+            <aside className="two columns footer-widgets">
               <div className="widget widget_contact">
                 <h4>Address and Phone</h4>
                 <p className="address">
                   {name}
                   <br />
                   {city}, {state}
+                  <br />
+                  <span>{email}</span>
                   <br />
                   <span>{phone}</span>
                 </p>
