@@ -68,32 +68,44 @@
     "skills":[
       {
         "name":"C++",
+        "description":"Test 1",
+        "image":"01.png",
         "level":"95%"
       },
       {
         "name":"Photoshop",
+        "description":"Test 2",
+        "image":"02.png",
         "level":"100%"
       },
       {
         "name":"x86 Assembly",
+        "description":"Test 2",
+        "image":"03.png",
         "level":"83%"
       },
       {
         "name":"Verilog HDL",
+        "description":"Test 3",
+        "image":"04.png",
         "level":"78%"
       },
       {
         "name":"MATLAB",
+        "description":"Test 4",
+        "image":"05.png",
         "level":"95%"
       },
       {
         "name":"Javascript",
-        "description":"Just a test1",
+        "description":"Test 5",
+        "image":"06.png",
         "level":"80%"
       },
       {
         "name":"ARM Assembly",
-        "description":"Just a test1",
+        "description":"Test 6",
+        "image":"07.png",
         "level":"83%"
       }
     ]
