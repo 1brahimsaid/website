@@ -12,8 +12,8 @@
    d. Resume Section
    e. Portfolio Section
    f. Call To Action Section
-   g. Testimonials Section
-   h. Contact Section
+   g. Testimonials Section (Removed)
+   h. Contact Section (Contact Form Removed)
    i. Footer
 
 ===================================================================== */
@@ -728,7 +728,7 @@ call-to-action .button {
 #contact {
    background: #191919;
    padding-top: 96px;
-   padding-bottom: 102px;
+   padding-bottom: 96px;
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
