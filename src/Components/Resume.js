@@ -99,7 +99,7 @@ class Resume extends Component {
 
         <Slide left duration={1300}>
           <div className="row skill">
-            <div className="four columns header-col">
+            <div className="three columns header-col">
               <h1>
                 <span>Skills</span>
               </h1>
