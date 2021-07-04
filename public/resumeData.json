@@ -68,43 +68,43 @@
     "skills":[
       {
         "name":"C++",
-        "description":"Test 1",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"01.png",
         "level":"95%"
       },
       {
         "name":"Photoshop",
-        "description":"Test 2",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"02.png",
         "level":"100%"
       },
       {
         "name":"x86 Assembly",
-        "description":"Test 2",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"03.png",
         "level":"83%"
       },
       {
         "name":"Verilog HDL",
-        "description":"Test 3",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"04.png",
         "level":"78%"
       },
       {
         "name":"MATLAB",
-        "description":"Test 4",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"05.png",
         "level":"95%"
       },
       {
         "name":"Javascript",
-        "description":"Test 5",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"06.png",
         "level":"80%"
       },
       {
         "name":"ARM Assembly",
-        "description":"Test 6",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"07.png",
         "level":"83%"
       }
