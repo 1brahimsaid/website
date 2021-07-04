@@ -49,11 +49,11 @@ class Resume extends Component {
       const className = "bar-expand " + skills.name.toLowerCase();
       const width = skills.level;
       return (
-        <li key={skills.name}>
+        <div key={skills.name}>
           <span style={{ width, backgroundColor }} className={className}></span>
           <em>{skills.name}</em>
-          <div><p>{skills.description}</p></div>
-        </li>
+          <p>{skills.description}</p>
+        </div>
       );
     });
 
