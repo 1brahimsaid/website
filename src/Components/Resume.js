@@ -109,7 +109,7 @@ class Resume extends Component {
               <p>{skillmessage}</p></div>
 
               <div className="bars">
-                <ul className="skills">{skills}</ul>
+                <ul className="skills1">{skills1}</ul>
               </div>
               <ul className="bgrid-quarters s-bgrid-thirds cf">
 					    {skills1}
