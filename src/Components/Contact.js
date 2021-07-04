@@ -16,12 +16,8 @@ class Contact extends Component {
                 <span>Get In Touch.</span>
               </h1>
             </div>
-
             <div className="ten columns">
               <p className="lead">{message}</p>
-              <span>
-              <a href="mailto:ibrahim.said95@gmail.com">ibrahim.said95@gmail.com</a>
-              </span> 
             </div>
           </div>
         </Fade>

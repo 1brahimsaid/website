@@ -17,6 +17,11 @@
     "resumedownload":"https://www.surpassyourgoals.com/wp-content/uploads/stop_sign_custom_19525.png",
     "social":[
       {
+        "name":"email",
+        "url":"mailto:ibrahim.said95@gmail.com",
+        "className":"fa fa-email"
+      },
+      {
         "name":"linkedin",
         "url":"https://www.surpassyourgoals.com/wp-content/uploads/stop_sign_custom_19525.png",
         "className":"fa fa-linkedin"
