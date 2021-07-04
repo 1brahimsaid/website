@@ -183,7 +183,7 @@ ul#nav li.current a { color: #fe6928; }
 
 #about {
    background: #000524;
-   padding-top: 90px;
+   padding-top: 80px;
    padding-bottom: 66px;
    overflow: hidden;
 }
@@ -232,7 +232,7 @@ ul#nav li.current a { color: #fe6928; }
 
 #resume {
    background: #fff;
-   padding-top: 90px;
+   padding-top: 80px;
    padding-bottom: 72px;
    overflow: hidden;
 }
@@ -413,7 +413,7 @@ ul#nav li.current a { color: #fe6928; }
 
 #portfolio {
    background: #ebeeee;
-   padding-top: 90px;
+   padding-top: 80px;
    padding-bottom: 60px;
 }
 #portfolio h1 {
@@ -727,7 +727,7 @@ call-to-action .button {
 
 #contact {
    background: #191919;
-   padding-top: 96px;
+   padding-top: 80px;
    padding-bottom: 70px;
    color: #636363;
 }
