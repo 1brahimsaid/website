@@ -107,6 +107,12 @@
         "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "image":"07.png",
         "level":"83%"
+      },
+      {
+        "name":"OrCAD",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image":"08.png",
+        "level":"74%"
       }
     ]
   },
