@@ -104,9 +104,9 @@ class Resume extends Component {
                 <span>Skills</span>
               </h1>
             </div>
-
+            <div>
             <div className="nine columns main-col">
-              <p>{skillmessage}</p>
+              <p>{skillmessage}</p></div>
 
               <div className="bars">
                 <ul className="skills">{skills}</ul>
