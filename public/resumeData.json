@@ -67,31 +67,38 @@
     ],
     "skills":[
       {
-        "name":"MATLAB",
-        "level":"88%"
-      },
-      {
-        "name":"Python",
-        "level":"80%"
-      },
-      {
-        "name":"8086 Assembly",
-        "level":"75%"
-      },
-      {
         "name":"C++",
-        "level":"81%"
-      },
-      {
-        "name":"Javascript",
-        "level":"80%"
+        "description":"Just a test1",
+        "level":"95%"
       },
       {
         "name":"Photoshop",
+        "description":"Just a test1",
         "level":"100%"
       },
       {
-        "name":"Arduino",
+        "name":"x86 Assembly",
+        "description":"Just a test1",
+        "level":"75%"
+      },
+      {
+        "name":"Verilog HDL",
+        "description":"Just a test1",
+        "level":"80%"
+      },
+      {
+        "name":"MATLAB",
+        "description":"Just a test1",
+        "level":"95%"
+      },
+      {
+        "name":"Javascript",
+        "description":"Just a test1",
+        "level":"80%"
+      },
+      {
+        "name":"ARM Assembly",
+        "description":"Just a test1",
         "level":"80%"
       }
     ]
