@@ -79,12 +79,12 @@
       {
         "name":"x86 Assembly",
         "description":"Just a test1",
-        "level":"75%"
+        "level":"83%"
       },
       {
         "name":"Verilog HDL",
         "description":"Just a test1",
-        "level":"80%"
+        "level":"78%"
       },
       {
         "name":"MATLAB",
@@ -99,7 +99,7 @@
       {
         "name":"ARM Assembly",
         "description":"Just a test1",
-        "level":"80%"
+        "level":"83%"
       }
     ]
   },
