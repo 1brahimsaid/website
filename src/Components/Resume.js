@@ -112,10 +112,10 @@ class Resume extends Component {
               <div className="bars">
               <ul className="skills">{skills}</ul>
               </div>
+              </div>
               <ul className="bgrid-quarters s-bgrid-thirds cf">
 					    {expanded}
 					    </ul>
-            </div>
           
         </Slide>
       </section>
