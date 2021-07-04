@@ -53,9 +53,8 @@ class Resume extends Component {
           <span style={{ width, backgroundColor }} className={className}></span>
           <em>{skills.name}</em>
           <p className="info">
-          {skills.name}
-          </p>
           <p>{skills.description}</p>
+          </p>
         </li>
       );
     });
