@@ -60,7 +60,7 @@ class Resume extends Component {
         var projectImage = 'images/tech/'+skills1.image;
         return (
         <div key={skills1.name} className="columns feature-item">
-                  <img className='skills1' alt={skills1.name} src={projectImage} />
+                  <img className='skill' alt={skills1.name} src={projectImage} />
                   <h5>{skills1.name}</h5>
                   <p>{skills1.description}</p>
                </div>
@@ -109,7 +109,6 @@ class Resume extends Component {
               <p>{skillmessage}</p></div>
 
               <div className="bars">
-                <ul className="skills1">{skills1}</ul>
               </div>
               <ul className="bgrid-quarters s-bgrid-thirds cf">
 					    {skills1}
