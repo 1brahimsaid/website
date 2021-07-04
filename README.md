@@ -6,6 +6,8 @@
 # Description
 This project forks from [https://github.com/tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template), [https://github.com/tbakerx/react-resume-template](https://github.com/nordicgiant2/react-nice-resume) and [Ceevee](https://www.styleshout.com/free-templates/ceevee/).
 
+Animations were added to portfolio section, images, styling changes etc. compare to the original to see!
+
 # Run Project
 ### 1. Clone the project
 
