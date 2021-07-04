@@ -68,27 +68,22 @@
     "skills":[
       {
         "name":"C++",
-        "description":"Just a test1",
         "level":"95%"
       },
       {
         "name":"Photoshop",
-        "description":"Just a test1",
         "level":"100%"
       },
       {
         "name":"x86 Assembly",
-        "description":"Just a test1",
         "level":"83%"
       },
       {
         "name":"Verilog HDL",
-        "description":"Just a test1",
         "level":"78%"
       },
       {
         "name":"MATLAB",
-        "description":"Just a test1",
         "level":"95%"
       },
       {
