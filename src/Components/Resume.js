@@ -56,13 +56,13 @@ class Resume extends Component {
       );
     });
 
-    var skills1 = this.props.data.skills.map(function(skills){
-        var projectImage = 'images/tech/'+skills1.image;
+    var expanded = this.props.data.skills.map(function(skills){
+        var projectImage = 'images/tech/'+skills.image;
         return (
-        <div key={skills1.name} className="columns feature-item">
-                  <img className='skill' alt={skills1.name} src={projectImage} />
-                  <h5>{skills1.name}</h5>
-                  <p>{skills1.description}</p>
+        <div key={skills.name} className="columns feature-item">
+                  <img className='skill' alt={skills.name} src={projectImage} />
+                  <h5>{skills.name}</h5>
+                  <p>{skills.description}</p>
                </div>
         );
         });
@@ -111,7 +111,7 @@ class Resume extends Component {
               <div className="bars">
               </div>
               <ul className="bgrid-quarters s-bgrid-thirds cf">
-					    {skills1}
+					    {expanded}
 					    </ul>
             </div>
           </div>
