@@ -22,7 +22,6 @@ class Contact extends Component {
               <span>
               <a href="mailto:ibrahim.said95@gmail.com">ibrahim.said95@gmail.com</a>
               </span> 
-              </p>
             </div>
           </div>
         </Fade>
