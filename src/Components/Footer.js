@@ -24,12 +24,6 @@ class Footer extends Component {
 
               <ul className="copyright">
                 <li>&copy; Copyright Ibrahim Said 2021</li>
-                <li>
-                  Base Design by{" "}
-                  <a title="Ceevee" href="https://ceev.io/">
-                    Ceevee
-                  </a>
-                </li>
               </ul>
             </div>
           </Fade>
