@@ -283,7 +283,7 @@ ul#nav li.current a { color: #fe6928; }
 .bars {
 	width: 95%;
 	float: left;
-	padding: 50px;
+	padding: 0;
 	text-align: left;
 }
 .bars .skills {
