@@ -17,7 +17,7 @@ class Contact extends Component {
               </h1>
             </div>
 
-            <div className="ten columns">
+            <div className="five columns">
               <p className="lead">{message}</p>
               <p className="address">
               <span>
