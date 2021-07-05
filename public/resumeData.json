@@ -120,7 +120,7 @@
     "projects": [
       {
         "title":"Discuss.Fantom.Digital",
-        "category":"Community Forums with cryptocurrency payments facilitated by web3 and solidity.",
+        "category":"Community Forums with cryptocurrency payments facilitated by web3 and solidity. Created with React.js, Next.js, and TailwindCSS, this site facilitates crypto discussion around the Fantom Blockchain.",
         "image":"discuss.jpeg",
         "url":"https://projects.ibrahimsaid.ca/discuss"
       },
@@ -132,25 +132,25 @@
       },
       {
         "title":"Simulation Study: Manufacturing Facility",
-        "category":"A simulation study conducted to assess the performance of a manufacturing facility based on historical data.",
+        "category":"A simulation study conducted to assess the performance of a manufacturing facility based on historical data. The objective of the simulation was to identify the ideal behaviour/priority of the entities involved.",
         "image":"system.jpeg",
         "url":"https://projects.ibrahimsaid.ca/simulationstudy"
       },
       {
         "title":"Chonker x86 Assembly Game",
-        "category":"A fun game I created using x86 Assembly Language.",
+        "category":"A fun game I created using x86 Assembly Language. This game was created using hardware and software interrupts to directly respond to events",
         "image":"02.jpg",
         "url":"https://projects.ibrahimsaid.ca/chonker"
       },
       {
         "title":"Flappy Bird with EMG-Controlled Mouse",
-        "category":"Created a safe and isolated system that allows one to play Flappy Bird controlled by a forearm muscle twitch.",
+        "category":"Created a safe and isolated system to play Flappy Bird with a forearm muscle twitch. Modified a computer mouse so that its left button is operated by the electromyographic (EMG) signal. ",
         "image":"03.jpg",
         "url":"https://projects.ibrahimsaid.ca/flappybird"
       },
       {
         "title":"Simple DC Motor",
-        "category":"A simple DC motor was created with a ceramic magnet, paperclip, screws, 9v battery, copper wire and electrical wire",
+        "category":"A set of instructions to create a simple DC motor created with a ceramic magnet, paperclip, screws, 9v battery, copper wire and electrical wire.",
         "image":"04.jpg",
         "url":"https://projects.ibrahimsaid.ca/simpledcmotor"
       }
