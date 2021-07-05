@@ -108,7 +108,8 @@ class Resume extends Component {
             
             <div className="nine columns main-col">
               <p>{skillmessage}</p>
-            </div> 
+            </div>
+            </Slide> 
               <ul className="bgrid-quarters s-bgrid-thirds cf">
 					    {expanded}
 					    </ul>
@@ -123,7 +124,7 @@ class Resume extends Component {
             </div>
             </div>
           </div>
-        </Slide>
+        
       </section>
     );
   }
