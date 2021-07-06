@@ -56,51 +56,50 @@
     "skills":[
       {
         "name":"C++",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description":"Whether typing Arduino code, or general C++ work, this is the first language I learned and I am most comfortable in. Experience dealing with dynamic data structures and lists.",
         "image":"01.png",
         "level":"95%"
       },
       {
         "name":"Photoshop",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design anything you name it. If you need design work done I am your man!",
         "image":"02.png",
         "level":"100%"
       },
       {
         "name":"x86 Assembly",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description":"A more recent addition to my skill list with ARM Assembly as well. I have experience writing Assembly for the 80386 and 8086 microprocessors. Coded an Escape in MASM below.",
         "image":"03.png",
-        "level":"83%"
+        "level":"88%"
       },
       {
         "name":"Verilog HDL",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description":"The primary language I use when developing for FPGA or other ICs. Created a Egg Timer with additional features. Still need more experience here.",
         "image":"04.png",
-        "level":"78%"
+        "level":"80%"
       },
       {
         "name":"MATLAB",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description":"My go-to programming and numeric computing platform, I use MATLAB almost on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and everything else. I do most iterative work here.",
         "image":"05.png",
         "level":"95%"
       },
       {
         "name":"Javascript",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description":"What can I say, the site you are looking at was exclusively created with React.js and Node.js. I use javascript primarily for web development.",
         "image":"06.png",
-        "level":"80%"
+        "level":"86%"
       },
       {
         "name":"ARM Assembly",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "image":"07.png",
-        "level":"83%"
+        "description":"Experience implementing the same techniques I learned in x86 but with ARM-based microprocessors. Primary experience is with the ARM mbed Application Shield. I believe ARM is the future and actively am still working and learning more." 
+        "level":"81%"
       },
       {
         "name":"OrCAD",
-        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "description":"Immense experience designing and implementing analog circuit design with signal verification. Because of covid, this was the only way I could simulate and test electronic characteristics and properties.",
         "image":"08.png",
-        "level":"74%"
+        "level":"83%"
       }
     ]
   },
