@@ -139,7 +139,7 @@
       {
         "title":"Egg Timer FPGA Design",
         "category":"Verilog (HDL) code combining counters, finite state machines, encoders, registers and logic to build a custom FPGA based Egg Timer. Additional features like stopwatch and alarm.",
-        "image":"eggtimer.jpeg",
+        "image":"eggtimer.png",
         "url":"https://projects.ibrahimsaid.ca/eggtimer"
       },
       {
