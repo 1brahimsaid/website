@@ -3,7 +3,7 @@
     "name":"Ibrahim Said",
     "description":"Programmer, Graphic Designer, Developer, and Future P.Eng",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Self-motivated, passionate, hardworking coder with an organized approach to meeting multiple, concurrent deadlines. Comfortable creating complete devices and adapting to legacy systems. Experience developing and designing Arduino-based systems and testing equipment. Beyond that I am cryptocurrency enthusiast, basketball fanatic, and video game lover. Constantly adding and tweaking my computer builds, generating content, and loving life!",
     "contactmessage":"Want to hire me? Have a project you need help with? Want to just chat? Feel free to contact me below, and  allow two business days for a response. For the most prompt reply use email! And as always have a wonderful day!",
     "email": "ibrahim.said95@gmail.com",
     "phone": "647-779-4369",
@@ -34,21 +34,20 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Fluent in several programming languages, with good experience in others. I quickly learn and masters new technologies and languages in both team and self-directed settings. Comfortable handling multiple projects simultaneously with little to no supervision.",
     "education":[
       {
         "school":"Carleton University",
         "degree":"Biomedical & Electrical Engineering (B. Eng)",
         "image":"07.png",
-        "graduated":"April 20XX",
+        "graduated":"April 2021",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
         "school":"Stephen Lewis Secondary School",
         "degree":"Highschool Diploma",
         "image":"08.png",
-        "graduated":"June 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":"June 2013"
       }
     ],
     "work":[
@@ -58,12 +57,6 @@
         "image":"09.png",
         "years":"July 2019 - January 2020",
         "description":"Was outsourced to work on the client bases of several institutions including Capital One, Freedom Mobile, and more. Worked to control credit exposure by providing order management strategies to minimize credit risk and generate revenue. Broke down and evaluated user problems, using tests, personal expertise and probing questions. Conducted financial review of assets for the purposes of settlement, closure, and payment."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
     "skills":[
