@@ -137,6 +137,12 @@
         "url":"https://projects.ibrahimsaid.ca/simulationstudy"
       },
       {
+        "title":"Egg Timer FPGA Design",
+        "category":"Verilog (HDL) code combining counters, finite state machines, encoders, registers and logic to build a custom FPGA based Egg Timer. Additional features like stopwatch and alarm.",
+        "image":"eggtimer.jpeg",
+        "url":"https://projects.ibrahimsaid.ca/eggtimer"
+      },
+      {
         "title":"Chonker x86 Assembly Game",
         "category":"A fun game I created using x86 Assembly Language. This game was created using hardware and software interrupts to directly respond to events",
         "image":"02.jpg",
