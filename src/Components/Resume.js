@@ -32,8 +32,10 @@ class Resume extends Component {
     });
     
     const work = this.props.data.work.map(function (work) {
+      var workImage = 'images/portfolio/'+work.image;
       return (
         <div key={work.company}>
+          <img src={work.image} src={workImage} />
           <h3>{work.company}</h3>
           <p className="info">
             {work.title}
