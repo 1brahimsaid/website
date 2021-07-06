@@ -62,7 +62,7 @@
       },
       {
         "name":"Photoshop",
-        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design, anything you need I got it. If you need any design work done I am your man!",
+        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design, anything you need I got it. If you need design work done I am your man!",
         "image":"02.png",
         "level":"100%"
       },
@@ -86,7 +86,7 @@
       },
       {
         "name":"Javascript",
-        "description":"What can I say, the site you are looking at was created with React.js and Node.js. I use javascript primarily for web development. But I am always looking for ways to expand this.",
+        "description":"What can I say, the site you are looking at was created with React.js and Node.js. I use javascript primarily for web development. But, I am always looking for ways to expand this.",
         "image":"06.png",
         "level":"86%"
       },
@@ -100,7 +100,7 @@
         "name":"OrCAD",
         "description":"Experience designing and implementing analog circuits with verification. Because of covid, this was the only way I could simulate and theoretically test electronics for characteristics and properties.",
         "image":"08.png",
-        "level":"83%"
+        "level":"88%"
       }
     ]
   },
