@@ -56,19 +56,19 @@
     "skills":[
       {
         "name":"C++",
-        "description":"Whether typing Arduino or just general C++ work, this is my first language and probably one I most comfortable in. Experience dealing with dynamic data structures and lists.",
+        "description":"Whether typing Arduino or just general C++ work, this is my first language and probably the one I am most comfortable in. Experience dealing with dynamic data structures and lists.",
         "image":"01.png",
         "level":"95%"
       },
       {
         "name":"Photoshop",
-        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design, anything you need I can do. If you need design work done I am your man!",
+        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design, anything you need I got it. If you need any design work done I am your man!",
         "image":"02.png",
         "level":"100%"
       },
       {
         "name":"x86 Assembly",
-        "description":"A more recent addition to my skill list in addition to ARM well. I have experience writing Assembly for the i386 and 8086 microprocessors. Created an Escape game in MASM.",
+        "description":"A more recent addition to my skill list w/ ARM aswell. I have experience writing Assembly for the i386 and 8086 microprocessors. Created an Escape game in MASM.",
         "image":"03.png",
         "level":"88%"
       },
@@ -86,19 +86,19 @@
       },
       {
         "name":"Javascript",
-        "description":"What can I say, the site you are looking at was created with React.js and Node.js. I use javascript primarily for web development. But ",
+        "description":"What can I say, the site you are looking at was created with React.js and Node.js. I use javascript primarily for web development. But I am always looking for ways to expand this.",
         "image":"06.png",
         "level":"86%"
       },
       {
         "name":"ARM Assembly",
-        "description":"Similar experience with x86 but with ARM-based microprocessors. Primary experience is with the ARM mbed Application Shield (Cortex-M0). I believe ARM is the future and continue to learn more.",
+        "description":"Very similar experience to x86 but with ARM-based microprocessors. Primary experience here is with the ARM mbed Application Shield (Cortex-M0). I believe ARM is the future and continue to learn more.",
         "image":"07.png",
         "level":"81%"
       },
       {
         "name":"OrCAD",
-        "description":"Lots of experience designing and implementing analog circuits with verification. Because of covid, this was the only way I could simulate and theoretically test electronics for characteristics and properties.",
+        "description":"Experience designing and implementing analog circuits with verification. Because of covid, this was the only way I could simulate and theoretically test electronics for characteristics and properties.",
         "image":"08.png",
         "level":"83%"
       }
