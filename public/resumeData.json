@@ -3,7 +3,7 @@
     "name":"Ibrahim Said",
     "description":"Programmer, Graphic Designer, Developer, and Future P.Eng",
     "image":"profilepic.jpg",
-    "bio":"Self-motivated, passionate, hardworking coder with an organized approach to meeting multiple, concurrent deadlines. Comfortable creating complete devices and adapting to legacy systems. Experience developing and designing Arduino-based systems and testing equipment. Beyond that I am cryptocurrency enthusiast, basketball fanatic, and video game lover. Constantly adding and tweaking my computer builds, generating content, and loving life!",
+    "bio":"I am a self-motivated, passionate, hardworking coder with an organized approach to meeting multiple, concurrent deadlines. Experience developing and designing systems and testing equipment in numerous languages. Beyond that I am cryptocurrency enthusiast, basketball fanatic, and video game lover. Constantly adding and tweaking my computer builds, generating content, and loving life!",
     "contactmessage":"Want to hire me? Have a project you need help with? Want to just chat? Feel free to contact me below, and  allow two business days for a response. For the most prompt reply use email! And as always have a wonderful day!",
     "email": "ibrahim.said95@gmail.com",
     "phone": "647-779-4369",
@@ -42,12 +42,6 @@
         "image":"07.png",
         "graduated":"April 2021",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"Stephen Lewis Secondary School",
-        "degree":"Highschool Diploma",
-        "image":"08.png",
-        "graduated":"June 2013"
       }
     ],
     "work":[
@@ -56,7 +50,7 @@
         "title":"Commercial Credit Analyist",
         "image":"09.png",
         "years":"July 2019 - January 2020",
-        "description":"Was outsourced to work on the client bases of several institutions including Capital One, Freedom Mobile, and more. Worked to control credit exposure by providing order management strategies to minimize credit risk and generate revenue. Broke down and evaluated user problems, using tests, personal expertise and probing questions. Conducted financial review of assets for the purposes of settlement, closure, and payment."
+        "description":"Outsourced to work on the client bases of several institutions including Capital One, Freedom Mobile, and more. Worked to control credit exposure by providing order management strategies to minimize credit risk and generate revenue. Broke down and evaluated user problems, using tests, personal expertise and probing questions. Conducted financial review of assets for the purposes of settlement, closure, and payment."
       }
     ],
     "skills":[
