@@ -117,6 +117,8 @@ class Resume extends Component {
               <ul className="bgrid-quarters s-bgrid-thirds cf">
 					    {expanded}
 					    </ul>
+              </Slide>
+              <Slide left duration={1300}> 
               <div className="three columns header-col">
               <h1>
                 <span>Expertise</span>
