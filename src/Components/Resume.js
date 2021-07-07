@@ -101,7 +101,7 @@ class Resume extends Component {
 
         
           <div className="row skill">
-          <Slide left duration={1300}>
+          <Slide left duration={1200}>
             <div className="three columns header-col">
               <h1>
                 <span>My Skills</span>
