@@ -113,11 +113,11 @@ class Resume extends Component {
               <p>{skillmessage}</p>
             </div> 
             </Slide>
-
+            <Fade duration={1000}>
               <ul className="bgrid-quarters s-bgrid-thirds cf">
 					    {expanded}
 					    </ul>
-
+              </Fade>
               <Slide left duration={1300}> 
               <div className="three columns header-col">
               <h1>
