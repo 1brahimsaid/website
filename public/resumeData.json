@@ -68,7 +68,7 @@
       },
       {
         "name":"x86 Assembly",
-        "description":"A more recent addition to my skill list. I have experience writing Assembly code for the i386 and 8086 microprocessors. Programmed an Escape game in MASM.",
+        "description":"A more recent addition to my skill list. I have experience writing Assembly code for the i386/8086 microprocessors. Programmed an Escape game in MASM.",
         "image":"03.png",
         "level":"88%"
       },
@@ -80,13 +80,13 @@
       },
       {
         "name":"MATLAB",
-        "description":"My go-to computing platform, I use MATLAB on a daily basis. Signal processing, image analysis, simulation, neural networks MATLAB can do it. I do any iterative work on MATLAB.",
+        "description":"My go-to programming and numeric computing platform, I use MATLAB almost on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and so much else. I do most iterative work here.",
         "image":"05.png",
         "level":"95%"
       },
       {
         "name":"Javascript",
-        "description":"What can I say, the site you are looking at was created with React.js and Node.js. I use javascript primarily for web development. But, I am always looking for ways to expand this.",
+        "description":"What can I say, the site you are looking at was created with React.js and Node.js. I use javascript primarily for web development. But, I am always looking for ways to expand.",
         "image":"06.png",
         "level":"86%"
       },
