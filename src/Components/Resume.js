@@ -23,7 +23,7 @@ class Resume extends Component {
         <div key={education.school}>
           <img src={education.image} src={educationImage} />
           <h3>{education.school}</h3>
-          <p className="info">
+          <p className="info">  
             {education.degree} <span>&bull;</span>
             <em className="date">{education.graduated}</em>
           </p>
@@ -114,11 +114,11 @@ class Resume extends Component {
               <p>{skillmessage}</p>
             </div> 
             </Slide>
-
+            <Slide left duration={1300}> 
               <ul className="bgrid-quarters s-bgrid-thirds cf">
 					    {expanded}
 					    </ul>
-
+              </Slide>
               <Slide left duration={1300}> 
               <div className="three columns header-col">
               <h1>
