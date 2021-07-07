@@ -56,25 +56,25 @@
     "skills":[
       {
         "name":"C++",
-        "description":"Whether typing Arduino or just general C++ work, this is my first language and probably the one I am most comfortable in. Experience dealing with dynamic data structures and lists.",
+        "description":"This is my first programming language and the one I am most comfortable with. Experience dealing with dynamic data structures and lists.",
         "image":"01.png",
         "level":"95%"
       },
       {
         "name":"Photoshop",
-        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design, anything you need I will do. For design work or concepts I am your man!",
+        "description":"A skill I have built up over the years. UI Design, Animations, or Graphic Design. Show me your vision and I will make it a reality!",
         "image":"02.png",
         "level":"100%"
       },
       {
         "name":"x86 Assembly",
-        "description":"A more recent addition to my skill list. I have experience writting Assembly code for the i386 and 8086 microprocessors. Also created an Escape game in MASM.",
+        "description":"A more recent addition to my skill list. I have experience writing Assembly code for the i386 and 8086 microprocessors. Programmed an Escape game in MASM.",
         "image":"03.png",
         "level":"88%"
       },
       {
         "name":"Verilog HDL",
-        "description":"The primary language I use while developing FPGAs or other ICs. Created an Egg Timer with the use of finite state machines and encoders.",
+        "description":"The primary language I use while developing FPGAs and other ICs. Programmed innovative tools with the use of finite state machines, encoders, registers and logic.",
         "image":"04.png",
         "level":"80%"
       },
