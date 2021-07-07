@@ -99,9 +99,9 @@ class Resume extends Component {
           </div>
         </Slide>
 
-        <Slide left duration={1300}>
+        
           <div className="row skill">
-          
+          <Slide left duration={1300}>
             <div className="three columns header-col">
               <h1>
                 <span>My Skills</span>
@@ -125,9 +125,10 @@ class Resume extends Component {
             <div className="bars">
               <ul className="skills">{skills}</ul>
             </div>
-            </div>           
+            </div>  
+            </Slide>         
           </div>
-        </Slide>
+
       </section>
     );
   }
