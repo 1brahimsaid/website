@@ -80,7 +80,7 @@
       },
       {
         "name":"MATLAB",
-        "description":"My go-to programming and numeric computing platform, I use MATLAB almost on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and so much else. I do most iterative work here.",
+        "description":"My go-to programming and numeric computing platform, I use MATLAB on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and so much more. I do most extensive iterative work here.",
         "image":"05.png",
         "level":"95%"
       },
@@ -98,7 +98,7 @@
       },
       {
         "name":"OrCAD",
-        "description":"Experience designing and implementing analog circuits with verification. OrCad is a great way to theoretically test electronics/circuits prior to real assembly.",
+        "description":"Experience designing and implementing analog circuits with verification. Used OrCad as a way to theoretically test electronics/circuits prior to real assembly.",
         "image":"08.png",
         "level":"88%"
       }
