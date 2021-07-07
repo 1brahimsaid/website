@@ -92,9 +92,9 @@
       },
       {
         "name":"ARM Assembly",
-        "description":"Similar to x86 but instead with ARM-based microprocessors. Primary experience is with the ARM mbed Application Shield (Cortex-M0). ARM is the future.",
+        "description":"Similar to x86 but instead with RISC (Reduced Instruction Set Computer). ARM-based microprocessors are easier to deal with. Primary experience is with the ARM mbed Application Shield (Cortex-M0).",
         "image":"07.png",
-        "level":"81%"
+        "level":"91%"
       },
       {
         "name":"OrCAD",
