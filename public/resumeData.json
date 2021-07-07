@@ -62,25 +62,25 @@
       },
       {
         "name":"Photoshop",
-        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design, anything you need I got it. If you need design work done I am your man!",
+        "description":"A skill I have built up over the years. UI Design, Animations, Graphic Design, anything you need I will do. For design work or concepts I am your man!",
         "image":"02.png",
         "level":"100%"
       },
       {
         "name":"x86 Assembly",
-        "description":"A more recent addition to my skill list w/ ARM aswell. I have experience writing Assembly for the i386 and 8086 microprocessors. Created an Escape game in MASM.",
+        "description":"A more recent addition to my skill list. I have experience writting Assembly code for the i386 and 8086 microprocessors. Also created an Escape game in MASM.",
         "image":"03.png",
         "level":"88%"
       },
       {
         "name":"Verilog HDL",
-        "description":"The primary language I use when developing FPGAs or other ICs. Made an Egg Timer with the use of finite state machines, encoders, and logic. Adding more experience here as time passes.",
+        "description":"The primary language I use while developing FPGAs or other ICs. Created an Egg Timer with the use of finite state machines and encoders.",
         "image":"04.png",
         "level":"80%"
       },
       {
         "name":"MATLAB",
-        "description":"My go-to programming and numeric computing platform, I use MATLAB almost on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and so much else. I do most iterative work here.",
+        "description":"My go-to numeric computing platform, I use MATLAB almost on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and so much more. I do most of my extensive iterative work on MATLAB.",
         "image":"05.png",
         "level":"95%"
       },
@@ -92,13 +92,13 @@
       },
       {
         "name":"ARM Assembly",
-        "description":"Very similar experience to x86 but with ARM-based microprocessors. Primary experience here is with the ARM mbed Application Shield (Cortex-M0). I believe ARM is the future and continue to learn more.",
+        "description":"Similar to x86 but instead with ARM-based microprocessors. Primary experience is with the ARM mbed Application Shield (Cortex-M0). ARM is the future.",
         "image":"07.png",
         "level":"81%"
       },
       {
         "name":"OrCAD",
-        "description":"Experience designing and implementing analog circuits with verification. Because of covid, this was the only way I could simulate and theoretically test electronics for characteristics and properties.",
+        "description":"Experience designing and implementing analog circuits with verification. OrCad is a great way to theoretically test electronics/circuits prior to real assembly.",
         "image":"08.png",
         "level":"88%"
       }
