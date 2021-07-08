@@ -74,7 +74,7 @@
       },
       {
         "name":"Verilog HDL",
-        "description":"The primary language I use while developing FPGAs and other ICs. Programmed innovative tools with the use of finite state machines, encoders, registers and logic.",
+        "description":"The primary language I use to develop on FPGAs and other ICs. Programmed innovative tools with the use of finite state machines, encoders, registers and logic.",
         "image":"04.png",
         "level":"80%"
       },
