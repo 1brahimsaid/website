@@ -80,7 +80,7 @@
       },
       {
         "name":"MATLAB",
-        "description":"My go-to programming and numeric computing platform, I use MATLAB on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and so much more. I do most extensive iterative work here.",
+        "description":"My go-to numeric computing platform, I use MATLAB on a daily basis for a variety of reasons. Signal processing, image analysis, simulation, neural networks and so much more. I do most extensive iterative work here.",
         "image":"05.png",
         "level":"95%"
       },
