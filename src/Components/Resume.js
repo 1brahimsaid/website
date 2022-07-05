@@ -47,6 +47,21 @@ class Resume extends Component {
       );
     });
 
+    const additional = this.props.data.additional.map(function (additional) {
+      var additionalImage = 'images/portfolio/'+additional.image;
+      return (
+        <div key={additional.company}>
+          <img src={additional.image} src={workImage} />
+          <h3>{additional.company}</h3>
+          <p className="info">
+            {additional.title}
+            <span>&bull;</span> <em className="date">{additional.years}</em>
+          </p>
+          <p>{additional.description}</p>
+        </div>
+      );
+    });
+
     const skills = this.props.data.skills.map((skills) => {
       const backgroundColor = this.getRandomColor();
       const className = "bar-expand " + skills.name.toLowerCase();
@@ -92,7 +107,7 @@ class Resume extends Component {
           <div className="row work">
             <div className="three columns header-col">
               <h1>
-                <span>Work</span>
+                <span>Work Experience</span>
               </h1>
             </div>
 
@@ -100,6 +115,17 @@ class Resume extends Component {
           </div>
         </Slide>
 
+        <Slide left duration={1300}>
+          <div className="row additional">
+            <div className="three columns header-col">
+              <h1>
+                <span>Additional Experience</span>
+              </h1>
+            </div>
+
+            <div className="nine columns main-col">{additional}</div>
+          </div>
+        </Slide>
         
           <div className="row skill">
           <Slide left duration={1300}>
