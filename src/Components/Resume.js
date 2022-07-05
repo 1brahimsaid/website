@@ -51,7 +51,7 @@ class Resume extends Component {
       var additionalImage = 'images/portfolio/'+additional.image;
       return (
         <div key={additional.company}>
-          <img src={additional.image} src={workImage} />
+          <img src={additional.image} src={additionalImage} />
           <h3>{additional.company}</h3>
           <p className="info">
             {additional.title}
