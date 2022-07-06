@@ -68,7 +68,7 @@ class Header extends Component {
                 <a href={github} className="button btn github-btn">
                   <i className="fa fa-github"></i>Github
                 </a>
-                <a href={github} className="button btn resume-btn">
+                <a href={resume} className="button btn resume-btn">
                   <i className="fa fa-file"></i>Resume
                 </a>
               </ul>
