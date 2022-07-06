@@ -41,14 +41,14 @@
         "degree":"Biomedical & Electrical",
         "image":"07.png",
         "graduated":"5/2021",
-        "description":"Carleton Capital Scholoarship winner. Hack the Wall 2020 First Place Finish."
+        "description":"Carleton Capital Scholoarship winner. Hack the Wall 2020 First Place. It was here I achieved a thorough understanding of the underlying theory and concepts behind biotechnology, signal processing, and image analysis. While at Carleton University I discovered my passion for data collection and statistics."
       }
     ],
     "work":[
       {
         "company":"Fantom Digital",
         "title":"Co-founder & Lead Developer",
-        "image":"09.png",
+        "image":"08.png",
         "years":"5/2021 - Present",
         "description":"Designed and built web applications to facilitate the sale of company created digital commodities. Oversee products that exceed US$1,000,000 in revenue and maintain 2,000 users globally. Handle all aspects of Fantom Digital's business development, strategic growth, and marketing. Maintain several high traffic websites and backends, generating revenue monthly."
       },
@@ -62,32 +62,39 @@
       {
         "company":"Honda of Canada Manufacturing",
         "title":"Quality Engineer",
-        "image":"09.png",
+        "image":"10.png",
         "years":"1/2018 - 1/2019",
         "description":"Executed regular security audits to mitigate risk to clients like Capital One and Freedom. Tested and reviewed workstations for vulnerabilities, patching threats as necessary. Performed daily compliance monitoring of company and employee internal communications."
       },
       {
         "company":"Sensbomb",
         "title":"Co-founder",
-        "image":"09.png",
+        "image":"11.png",
         "years":"4/2016 - 11/2018",
         "description":"Co-founded a health and beauty start-up company, specializing in bath bombs and soap. Exceeded US$350,000 in revenue and sold products to over 10,000 customers, sold the company. Developed and operated supply chains in the US, Canada, and UK."
       }
     ],
     "additional":[
       {
-        "company":"Fantom Digital",
-        "title":"Co-founder & Lead Developer",
-        "image":"09.png",
+        "company":"FTM Alerts",
+        "title":"Content Specialist",
+        "image":"12.png",
         "years":"5/2021 - Present",
-        "description":"Designed and built web applications to facilitate the sale of company created digital commodities. Oversee products that exceed US$1,000,000 in revenue and maintain 2,000 users globally. Handle all aspects of Fantom Digital's business development, strategic growth, and marketing. Maintain several high traffic websites and backends, generating revenue monthly."
+        "description":"Grew the online brand FTM Alerts through engagement, outreach, and marketing. Gained 120,000 followers (+521% YTD) educating users on financial strategies and investment. Organized and conducted live interviews with businesses, providing exposure and marketing."
       },
       {
-        "company":"Bill Gosling Outsourcing",
-        "title":"Compliance Engineer",
-        "image":"09.png",
-        "years":"8/2019 - 1/2020",
-        "description":"Restructured the quality assurance and production process of the Honda CRV. Trained line workers to identify and remediate common production errors. Created training manuals and visual aids to streamline inspection processes."
+        "company":"24 Consulting",
+        "title":"Lead Consultant",
+        "image":"13.png",
+        "years":"8/2021 - Present",
+        "description":"Assisted start-ups with treasury management, strategy development, and investment structure. Improved client profit retention with cost-benefit analysis and allocation restructuring. Created comprehensive risk management strategies to mitigate market risk for clients."
+      },
+      {
+        "company":"Centre for Student Academic Support",
+        "title":"Peer Assisted Study Sessions Facilitator",
+        "image":"07.png",
+        "years":"1/2019 - 4/2019",
+        "description":"Led weekly workshops providing students with additional coursework and assistance. Designed workshops, mock exams, and led revision sessions on graded content. Provided comprehensive academic support face to face, over email, and in a class setting"
       }
     ],
     "skills":[
@@ -95,7 +102,7 @@
         "name":"C++",
         "description":"This is my first programming language and the one I am most comfortable with. Experience dealing with dynamic data structures and lists.",
         "image":"01.png",
-        "level":"95%"
+        "level":"96%"
       },
       {
         "name":"Photoshop",
@@ -123,9 +130,9 @@
       },
       {
         "name":"Javascript",
-        "description":"What can I say, the site you are looking at was created with React.js and Node.js. I use javascript primarily for web development. But I am always looking for ways to expand that.",
+        "description":"What can I say, the site you are looking at was created with React JS. I use javascript primarily for web development. Only language I use daily.",
         "image":"06.png",
-        "level":"86%"
+        "level":"95%"
       },
       {
         "name":"ARM Assembly",
