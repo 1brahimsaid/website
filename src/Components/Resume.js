@@ -119,7 +119,7 @@ class Resume extends Component {
           <div className="row additional">
             <div className="three columns header-col">
               <h1>
-                <span>Additional Experience</span>
+                <span>Additional</span>
               </h1>
             </div>
 
